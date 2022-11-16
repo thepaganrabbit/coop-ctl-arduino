@@ -8,6 +8,9 @@ this code was written in PIO but can be changed to Arduino IDE.
 ---
 
 BMP180(I2C Temperature and pressure sensor) ---- 1
+
 DS18B20(HIgh Accuracy temperature sensor)   ---- 1
+
 PCA9548A(I2C Multiplexor)                   ---- 1
+
 Arduino nano                                ---- 1
